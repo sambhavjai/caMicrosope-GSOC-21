@@ -1,0 +1,25 @@
+{
+  "name": "camicrosope-gsoc-21",
+  "version": "1.0.0",
+  "description": "Implementing Code Challenge for the Role Based Authentication task",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambhavjai/caMicrosope-GSOC-21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambhavjai/caMicrosope-GSOC-21/issues"
+  },
+  "homepage": "https://github.com/sambhavjai/caMicrosope-GSOC-21#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.0",
+    "nodemon": "^2.0.7"
+  }
+}
